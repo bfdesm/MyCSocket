@@ -1,0 +1,3 @@
+F:/code/tempc/socketclient/cmake-build-debug/CMakeFiles/socketclient.dir
+F:/code/tempc/socketclient/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/code/tempc/socketclient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
